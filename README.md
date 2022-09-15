@@ -1,0 +1,2 @@
+# average
+JavaScript Functions Exercises 
